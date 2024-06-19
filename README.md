@@ -1,5 +1,5 @@
 # Hybrid-ECS-With-2D-Art-Example
-ECS およびHybrid ECSと、2Dアートスタイルで利用されるコンポーネントとの連携可能性をテストするUnity Project です。
+ECS およびHybrid ECSと、2Dアートスタイルで利用されるコンポーネントとの連携を確認するための、個人的なサンプルプロジェクトです。
 
 # Package
 * Entities 1.2.3
