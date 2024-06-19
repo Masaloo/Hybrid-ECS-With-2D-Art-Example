@@ -6,5 +6,5 @@ URPにおけるLight2D系コンポーネント
 | Component | ConvertEntity |Description|
 | ---- | ---- |----|
 | Sprite-Lit(Material)|true|Materialの描画が可能。|
-| Light2D|false*|*GameObject Light2D ->Entity Sprite-Lit による陰は可能|
+| Light2D|false*|Entity Light2Dはサポートされていない。(*GameObject Light2D ->Entity Sprite-Lit による陰は可能)|
 | ShadowCaster2D | false |サポートされていない|
