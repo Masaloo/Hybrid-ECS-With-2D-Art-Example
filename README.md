@@ -3,5 +3,12 @@ ECS およびHybrid ECSと、2Dアートスタイルで利用されるコンポ�
 
 URPにおけるLight2D系コンポーネント
 
-1.Light2D
-2.ShadowCaster2D
+---
+|Component||
+|ShadowCaster2D|false|
+---
+| Component | ConvertEntity |Description|
+| ---- | ---- |----|
+| Sprite-Lit(Material)|true|Materialの描画が可能。|
+| Light2D|false*|*GameObject Light2D ->Entity Sprite-Lit による陰は可能|
+| ShadowCaster2D | false|サポートされていない|
